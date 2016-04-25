@@ -1,0 +1,4 @@
+push a text file with some content (length of text should be more than 100 chars)
+commit & push (!! don't forget about human readable commit comment)
+make changes in text file, commit & push
+result: link to repo
